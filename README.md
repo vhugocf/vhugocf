@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vhugocf&label=Profile%20views&color=0e75b6&style=flat" alt="vhugocf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vhugocf" alt="vhugocf" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vhugocf" target="blank"><img src="https://img.shields.io/twitter/follow/vhugocf?logo=twitter&style=for-the-badge" alt="vhugocf" /></a> </p>
 
 - 🌱 I’m currently learning **Go, Data Structures & Algorithms, ReactJS, NextJS**
