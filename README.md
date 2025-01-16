@@ -1,4 +1,66 @@
 
+![Header](./your-header-image-name.png)
+
+
+## Hi there! 👋
+
+I'm **Victor**, a passionate developer based in **Sao Paulo, Brazil**. Currently, I am focused on mastering **Go**, **ReactJS**, and **NextJS**. I love building innovative solutions that make a difference!
+
+## About Me
+
+I am dedicated to continuously improving my skills in web development and backend technologies. My journey in software development has been exciting, and I'm eager to tackle new challenges and collaborate with others. I am currently open to new opportunities!
+
+## Skills & Technologies
+
+go,react,nextjs,docker,githubactions,git,html,css,nodejs,express,mongodb,graphql,redux,flutter,java,postman
+
+## Top Projects
+
+- [**vhugocf**](https://github.com/vhugocf/vhugocf) - A personal repository showcasing my projects. ⭐️ 0 Stars | Language: Unknown
+- [**hello-api**](https://github.com/vhugocf/hello-api) - A simple API built with Go. ⭐️ 0 Stars | Language: Go
+- [**setup-nodejs**](https://github.com/vhugocf/setup-nodejs) - Repository with Node.js environment setup, Docker, GitHub Actions, and Jest. ⭐️ 0 Stars | Language: Unknown
+- [**github-slideshow**](https://github.com/vhugocf/github-slideshow) - A robot-powered training repository. ⭐️ 0 Stars | Language: Ruby
+- [**FullstackCourse-University-of-Helsinki-2020**](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Course repository from the University of Helsinki. ⭐️ 0 Stars | Language: JavaScript
+
+## GitHub Stats
+
+🌟 **Public Repositories**: 5  
+👥 **Followers**: 1  
+🔗 **Following**: 8  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Updated README.md in [**vhugocf**](https://github.com/vhugocf/vhugocf) - *January 16, 2025*
+- Updated README.md in [**vhugocf**](https://github.com/vhugocf/vhugocf) - *January 15, 2025*
+- Created repository [**vhugocf**](https://github.com/vhugocf/vhugocf) - *January 14, 2025*
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts published. Stay tuned for updates!
+
+## Connect with Me
+
+{"twitter":"https://twitter.com/vhugocf"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">As an engineer, I believe in the power of simplicity in software development. It takes hard work and a solid education to achieve, but I’m dedicated to advocating for it, even when complexity tends to overshadow it.</h3>
 
@@ -31,6 +93,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&locale=en" alt="vhugocf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vhugocf&" alt="vhugocf" /></p>
+
+-->
 
 <!--
 **vhugocf/vhugocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
