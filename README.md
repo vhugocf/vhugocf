@@ -2,7 +2,6 @@
 ![Header](./github-header-image.png)
 ![Image alt text](./hello.svg).
 
-
 I'm Victor, a passionate developer from Sao Paulo, Brazil. I am currently dedicated to mastering Go, ReactJS, and NextJS. Let's build something amazing together!
 
 ## About Me
@@ -28,9 +27,6 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 ## GitHub Stats
 
-🏆 **Public Repositories**: 5  
-👥 **Followers**: 1  
-👤 **Following**: 8  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=radical)
 
 ## Recent Activity
@@ -40,13 +36,6 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 - **January 15, 2025**: Updated README.md in [vhugocf](https://github.com/vhugocf/vhugocf)  
 - **January 15, 2025**: Updated README.md in [vhugocf](https://github.com/vhugocf/vhugocf)  
 - **January 14, 2025**: Created repository [vhugocf](https://github.com/vhugocf/vhugocf)
-
-## Latest Blog Posts
-
-I currently do not have any blog posts.
-
-
-
 
 
 
@@ -73,12 +62,9 @@ I currently do not have any blog posts.
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&locale=en&layout=compact" alt="vhugocf" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&locale=en" alt="vhugocf" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&locale=en&layout=compact" alt="vhugocf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vhugocf&" alt="vhugocf" /></p>
-
 <!--
 **vhugocf/vhugocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
