@@ -1,7 +1,7 @@
 
 ![Header](./github-header-image.png)
 
-<h1>Hi there! </h1>
+<h1>Hi there! <span class="wave">👋</span></h1> 
 
 
 I'm Victor, a passionate developer from Sao Paulo, Brazil. I am currently dedicated to mastering Go, ReactJS, and NextJS. Let's build something amazing together!
