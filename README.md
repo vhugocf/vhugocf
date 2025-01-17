@@ -8,7 +8,7 @@
 
 I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling complex problems and creating efficient solutions. I am currently focused on enhancing my skills in Go, ReactJS, and NextJS while exploring new technologies.
 
-## Skills & Technologies
+## 💻 Skills & Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 - 💬 Ask me about **Go, Economy**
 
-- 📫 How to reach me **https://x.com/vhugocf**
+- 📫 How to reach me **mailto:vhugocfdev@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin/in/vhugocf](https://linkedin/in/vhugocf)
 
