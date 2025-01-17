@@ -2,65 +2,55 @@
 ![Header](./github-header-image.png)
 
 
-## Hi there! 👋
+## Hi there! 👋  <span class="wave">👋</span>
 
-I'm **Victor**, a passionate developer based in **Sao Paulo, Brazil**. Currently, I am focused on mastering **Go**, **ReactJS**, and **NextJS**. I love building innovative solutions that make a difference!
+I'm Victor, a passionate developer from Sao Paulo, Brazil. I am currently dedicated to mastering Go, ReactJS, and NextJS. Let's build something amazing together!
 
 ## About Me
 
-I am dedicated to continuously improving my skills in web development and backend technologies. My journey in software development has been exciting, and I'm eager to tackle new challenges and collaborate with others. I am currently open to new opportunities!
+I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling complex problems and creating efficient solutions. I am currently focused on enhancing my skills in Go, ReactJS, and NextJS while exploring new technologies.
 
 ## Skills & Technologies
 
-go,react,nextjs,docker,githubactions,git,html,css,nodejs,express,mongodb,graphql,redux,flutter,java,postman
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,react,next,nodejs,typescript,bash,docker,linux,git,postgresql,mongodb" />
+  </a>
+</p>
+
 
 ## Top Projects
 
-- [**vhugocf**](https://github.com/vhugocf/vhugocf) - A personal repository showcasing my projects. ⭐️ 0 Stars | Language: Unknown
-- [**hello-api**](https://github.com/vhugocf/hello-api) - A simple API built with Go. ⭐️ 0 Stars | Language: Go
-- [**setup-nodejs**](https://github.com/vhugocf/setup-nodejs) - Repository with Node.js environment setup, Docker, GitHub Actions, and Jest. ⭐️ 0 Stars | Language: Unknown
-- [**github-slideshow**](https://github.com/vhugocf/github-slideshow) - A robot-powered training repository. ⭐️ 0 Stars | Language: Ruby
-- [**FullstackCourse-University-of-Helsinki-2020**](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Course repository from the University of Helsinki. ⭐️ 0 Stars | Language: JavaScript
+- [vhugocf](https://github.com/vhugocf/vhugocf) - My personal project showcasing my skills and projects. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
+- [hello-api](https://github.com/vhugocf/hello-api) - A simple API built with Go. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
+- [setup-nodejs](https://github.com/vhugocf/setup-nodejs) - Node.js setup with Docker and GitHub Actions. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
+- [github-slideshow](https://github.com/vhugocf/github-slideshow) - A robot powered training repository. ⭐ 0 Stars | Language: Ruby | Forks: 0 | Open Issues: 0
+- [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. ⭐ 0 Stars | Language: JavaScript | Forks: 0 | Open Issues: 0
 
 ## GitHub Stats
 
-🌟 **Public Repositories**: 5  
+🏆 **Public Repositories**: 5  
 👥 **Followers**: 1  
-🔗 **Following**: 8  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&theme=radical)
+👤 **Following**: 8  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=radical)
 
 ## Recent Activity
 
-- Updated README.md in [**vhugocf**](https://github.com/vhugocf/vhugocf) - *January 16, 2025*
-- Updated README.md in [**vhugocf**](https://github.com/vhugocf/vhugocf) - *January 15, 2025*
-- Created repository [**vhugocf**](https://github.com/vhugocf/vhugocf) - *January 14, 2025*
+- **January 16, 2025**: Updated README.md in [vhugocf](https://github.com/vhugocf/vhugocf)  
+- **January 15, 2025**: Updated README.md in [vhugocf](https://github.com/vhugocf/vhugocf)  
+- **January 15, 2025**: Updated README.md in [vhugocf](https://github.com/vhugocf/vhugocf)  
+- **January 15, 2025**: Updated README.md in [vhugocf](https://github.com/vhugocf/vhugocf)  
+- **January 14, 2025**: Created repository [vhugocf](https://github.com/vhugocf/vhugocf)
 
 ## Latest Blog Posts
 
-Currently, I do not have any blog posts published. Stay tuned for updates!
-
-## Connect with Me
-
-{"twitter":"https://twitter.com/vhugocf"}
+I currently do not have any blog posts.
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<!--
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">As an engineer, I believe in the power of simplicity in software development. It takes hard work and a solid education to achieve, but I’m dedicated to advocating for it, even when complexity tends to overshadow it.</h3>
 
@@ -72,21 +62,17 @@ Currently, I do not have any blog posts published. Stay tuned for updates!
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
-- 🤝 I’m looking for help with **Bitcoin Core**
+- 🤝 I’m looking for help with **a**
 
-- 💬 Ask me about **Go, Bitcoin, Economy**
+- 💬 Ask me about **Go, Economy**
 
 - 📫 How to reach me **https://x.com/vhugocf**
 
 - 📄 Know about my experiences [https://linkedin/in/vhugocf](https://linkedin/in/vhugocf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vhugocf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vhugocf" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&locale=en&layout=compact" alt="vhugocf" /></p>
 
@@ -94,19 +80,6 @@ Currently, I do not have any blog posts published. Stay tuned for updates!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vhugocf&" alt="vhugocf" /></p>
 
--->
-
 <!--
 **vhugocf/vhugocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
