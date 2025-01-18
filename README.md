@@ -22,7 +22,6 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 ## 🌎 Connect With Me (𝕏)
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vhugocf)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fvhugocf)
 
 ## 💻 Skills & Technologies
 
