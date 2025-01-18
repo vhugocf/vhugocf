@@ -207,12 +207,14 @@
           <a>
             <span><em>Hi, nice to see you</em></span> 
             <span><em>Hi, nice to see you</em></span>
-            <span><em>Hi, nice to see you</em></span>
+            <span><em>Hi, nice to see you</em></span> 
           </a>
+         <span class='hi'>👋</span>
         </h1>
+        
         <section class='items'>
           <ul>
-            <li>My name is Victor <span class='hi'>👋</span> I'm a Software Developer </li>
+            <li>My name is Victor, I'm a Software Developer </li>
           </ul>
          <b></b>
           <ul>
