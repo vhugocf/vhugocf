@@ -204,19 +204,19 @@
     <div class='body'>
       <div class='container'>
         <h1>
-          <a href="https://github.com/vhugocf">
-            <span><em>Hello, Nice to see you</em></span>
-            <span><em>Hello, nice to see you</em></span>
-            <span><em>Hello, nice to see you</em></span>
+          <a>
+            <span><em>Hi, nice to see you</em></span> 
+            <span><em>Hi, nice to see you</em></span>
+            <span><em>Hi, nice to see you</em></span>
           </a>
         </h1>
         <section class='items'>
           <ul>
-            <li>Hi There! <span class='hi'>👋</span> I'm a Software Developer </li>
+            <li>My name is Victor <span class='hi'>👋</span> I'm a Software Developer </li>
           </ul>
          <b></b>
           <ul>
-            <li>...I have a principle...<a> ( The importance of simplicity in software development. Achieving this requires hard work and a solid education; however, I am committed to promoting simplicity, even when complexity often takes precedence )</a></li>
+            <li>...I have a principle...<a> ( The importance of simplicity in software development... Achieving this requires hard work and a solid education; however, I am committed to promoting simplicity, even when complexity often takes precedence )</a></li>
           </ul>
           <ul>
             <li><a></a></li>
