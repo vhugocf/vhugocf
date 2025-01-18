@@ -33,21 +33,13 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 ## 📊 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&theme=transparent&locale=en&layout=compact&langs_count=8"alt="vhugocf" /></p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=transparent)
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/vhugocf">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vhugocf" />
+<a href="https://github.com/vhugocf">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vhugocf&theme=tokyonight" />
 </a>
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf)](https://github.com/vhugocf/github-readme-stats) -->
 
 ## 👨🏻‍💻 Top Projects
 
@@ -64,4 +56,7 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 <!--
 **vhugocf/vhugocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&theme=transparent&locale=en&layout=compact&langs_count=8"alt="vhugocf" /></p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=transparent)
 -->
