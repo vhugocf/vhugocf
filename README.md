@@ -23,6 +23,11 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vhugocf)
 
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/vhugocf">
+
+
+
+
 ## 💻 Skills & Technologies
 
 <p align="center">
