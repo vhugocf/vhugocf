@@ -31,7 +31,22 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
   </a>
 </p>
 
+## 📊 GitHub Stats
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&theme=transparent&locale=en&layout=compact&langs_count=8"alt="vhugocf" /></p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=transparent)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vhugocf" />
+</a>
+
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf)](https://github.com/vhugocf/github-readme-stats) -->
 
 ## 👨🏻‍💻 Top Projects
@@ -41,10 +56,6 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 - [setup-nodejs](https://github.com/vhugocf/setup-nodejs) - Node.js setup with Docker and GitHub Actions. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
 - [github-slideshow](https://github.com/vhugocf/github-slideshow) - A robot powered training repository. ⭐ 0 Stars | Language: Ruby | Forks: 0 | Open Issues: 0
 - [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. ⭐ 0 Stars | Language: JavaScript | Forks: 0 | Open Issues: 0
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=transparent)
 
 
 
