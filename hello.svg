@@ -211,14 +211,16 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Software Developer</li>
+            <li>Hi There! <span class='hi'>👋</span> I'm a Software Developer </li>
+          </ul>
+         <b></b>
+          <ul>
+            <li>I have a principle...<a> The importance of simplicity in software development. Achieving this requires hard work and a solid education; however, I am committed to promoting simplicity, even when complexity often takes precedence.</a></li>
           </ul>
           <ul>
-            <li>I adhere to a simple principle...<a>the importance of simplicity in software development. Achieving this requires hard work and a solid education; however, I am committed to promoting simplicity, even when complexity often takes precedence.</a></li>
+            <li><a></a></li>
           </ul>
-          <ul>
-            <li><a href="mailto:vhugocfdev@gmail.com"> <span class='hi'>👋</span></a></li>
-          </ul>
+          <h1><span class='hi'>👋</span></h1>
         </section>
       </div>
     </div>
