@@ -2,7 +2,7 @@
 ![Header](./github-header-image.png)
 ![Image alt text](./hello.svg)
 
-<h3 align="center">As an engineer, I believe in the power of simplicity in software development. It takes hard work and a solid education to achieve, but I’m dedicated to advocating for it, even when complexity tends to overshadow it.</h3>
+
 
 ## 😎 About Me
 
@@ -55,6 +55,6 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 <!--
 **vhugocf/vhugocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&theme=transparent&locale=en&layout=compact&langs_count=8"alt="vhugocf" /></p>
-
+<h3 align="center">As an engineer, I believe in the power of simplicity in software development. It takes hard work and a solid education to achieve, but I’m dedicated to advocating for it, even when complexity tends to overshadow it.</h3>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=transparent)
 -->
