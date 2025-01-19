@@ -19,8 +19,7 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 - 📄 Know about my experiences [https://linkedin/in/vhugocf](https://linkedin.com/in/vhugocf)
 
-## 🌎 Connect With Me (𝕏)
-
+## 🌎 Connect With Me
 
 <div id="badges">
   <a href="https://x.com/vhugocf">
