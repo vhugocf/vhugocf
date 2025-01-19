@@ -21,10 +21,16 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 ## 🌎 Connect With Me (𝕏)
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vhugocf)
 
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/vhugocf">
-
+<div id="badges">
+  <a href="https://x.com/vhugocf">
+  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="htpps://linkedin.com/in/vhugocf">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 
@@ -37,12 +43,12 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 </p>
 
 ## 📊 GitHub Stats
-
+<div>
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=vhugocf&theme=tokyonight" />
 </p>
-
+</div>
 
 ## 👨🏻‍💻 Top Projects
 
