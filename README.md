@@ -49,12 +49,12 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 </div>
 
 
-## 👨🏻‍💻 Top Projects
+## 👨🏻‍💻 My Top Projects
 
 - [vhugocf](https://github.com/vhugocf/vhugocf) - My personal project showcasing my skills and projects. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
+  
 - [hello-api](https://github.com/vhugocf/hello-api) - A simple API built with Go. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
-- [setup-nodejs](https://github.com/vhugocf/setup-nodejs) - Node.js setup with Docker and GitHub Actions. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
-- [github-slideshow](https://github.com/vhugocf/github-slideshow) - A robot powered training repository. ⭐ 0 Stars | Language: Ruby | Forks: 0 | Open Issues: 0
+
 - [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. ⭐ 0 Stars | Language: JavaScript | Forks: 0 | Open Issues: 0
 
 
