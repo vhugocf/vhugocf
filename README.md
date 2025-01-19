@@ -27,7 +27,7 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="htpps://linkedin.com/in/vhugocf">
+  <a href="https://linkedin.com/in/vhugocf">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
