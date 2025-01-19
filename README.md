@@ -49,7 +49,7 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 </div>
 
 
-## 👨🏻‍💻 My Top Projects
+## 👨🏻‍💻 My Projects
 
 - [vhugocf](https://github.com/vhugocf/vhugocf) - My personal project showcasing my skills and projects. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
   
