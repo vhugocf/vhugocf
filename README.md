@@ -11,9 +11,9 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
-- 🤝 I’m looking for help with **a**
+- 🤝 I’m looking for help with **| Cryptography | Zero-Knowledge-Proof | Bug-Bounty**
 
-- 💬 Ask me about **Go, Economy**
+- 💬 Ask me about **| Go | Decentralized-Money |**
 
 - 📫 How to reach me **vhugocfdev@gmail.com**
 
