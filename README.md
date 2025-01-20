@@ -50,22 +50,13 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 
 ## 👨🏻‍💻 My Projects
-
-- [vhugocf](https://github.com/vhugocf/vhugocf) - My personal project showcasing my skills and projects. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
   
-- [hello-api](https://github.com/vhugocf/hello-api) - A simple API built with Go. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
 
 - [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. ⭐ 0 Stars | Language: JavaScript | Forks: 0 | Open Issues: 0
-
-
-
+- [hello-api](https://github.com/vhugocf/hello-api) - A simple API built with Go. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vhugocf&label=Profile%20views&color=0e75b6&style=flat" alt="vhugocf" /> </p>
 
 <!--
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=transparent)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&locale=en&layout=compact" alt="vhugocf" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&locale=en" alt="vhugocf" /></p>
+is not important
 -->
