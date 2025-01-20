@@ -13,7 +13,7 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 - 🤝 I’m looking for help with **| Cryptography | Zero-Knowledge-Proof | Bug-Bounty**
 
-- 💬 Ask me about **| Go | Decentralized-Money |**
+- 💬 Ask me about **| Go | Decentralized-Technologies | Blockchain**
 
 - 📫 How to reach me **vhugocfdev@gmail.com**
 
