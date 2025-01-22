@@ -51,10 +51,11 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 ## 👨🏻‍💻 My Projects
   
-
+- [CRUD-API-GO](https://github.com/vhugocf/crud-api-golang) - A simple API built with Go. ⭐ 0 Stars | Language: Go | Forks: 0 | Open Issues: 0
+- 
 - [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. ⭐ 0 Stars | Language: JavaScript | Forks: 0 | Open Issues: 0
 
-- [CRUD-API-GO](https://github.com/vhugocf/crud-api-golang) - A simple API built with Go. ⭐ 0 Stars | Language: N/A | Forks: 0 | Open Issues: 0
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vhugocf&label=Profile%20views&color=0e75b6&style=flat" alt="vhugocf" /> </p>
 
