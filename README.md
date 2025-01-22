@@ -46,10 +46,10 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=320)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&card_width=320)
-  
 
+![GitHub Streak](https://streak-stats.demolab.com?user=vhugocf&theme=tokyonight-duo)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=vhugocf&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ## 👨🏻‍💻 My Projects
   
