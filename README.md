@@ -43,6 +43,8 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 <div>
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&layout=compact&langs_count=8&card_width=320&theme=tokyonight&locale=en"/>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf&theme=default&show_icons=true&hide_border=true&layout=compact)
   
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=vhugocf&theme=tokyonight&show_icons=true&locale=en&card_width=320"/>
 </p>
