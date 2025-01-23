@@ -47,6 +47,7 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhugocf&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf&langs_count=8)
 
 
 ## 👨🏻‍💻 My Projects
