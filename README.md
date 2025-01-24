@@ -15,8 +15,6 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 - 💬 Ask me about **| Go | Decentralized-Technologies | Blockchain**
 
-- 📫 How to reach me **vhugocfdev@gmail.com**
-
 - 📄 Know about my experiences [https://linkedin/in/vhugocf](https://linkedin.com/in/vhugocf)
 
 ## 🌎 Connect With Me
