@@ -50,6 +50,8 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![vhugocf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 ## 👨🏻‍💻 My Projects
   
