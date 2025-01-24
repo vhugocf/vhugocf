@@ -42,9 +42,7 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=8)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vhugocf&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vhugocf&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ![vhugocf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
