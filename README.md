@@ -48,10 +48,10 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 ## 👨🏻‍💻 My Projects
   
-- [CRUD-API-GO](https://github.com/vhugocf/crud-api-golang) - A simple API built with Go. ⭐ 0 Stars | Language: Go | Forks: 0 | Open Issues: 0
+- [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. ⭐ 0 Stars | Language: Go 
 
   
-- [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. ⭐ 0 Stars | Language: JavaScript | Forks: 0 | Open Issues: 0
+- [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. ⭐ 0 Stars | Language: JavaScript
 
 
 
