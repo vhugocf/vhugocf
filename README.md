@@ -6,7 +6,9 @@
 
 ## 😎 About Me
 
-I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling complex problems and creating efficient solutions. I am currently focused on enhancing my skills in Go, ReactJS, and NextJS while exploring new technologies.
+I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling complex problems and creating efficient solutions. I am currently focused on enhancing my skills in Go, ReactJS, and NextJS while exploring new technologies in cryptography field.
+
+
 - 🌱 I’m currently learning **Go, Data Structures & Algorithms, ReactJS, NextJS, ZK-SNARK**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
