@@ -48,6 +48,11 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=vhugocf&theme=tokyonight&show_icons=true)](https://github.com/vhugocf)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&locale=en&layout=compact" alt="vhugocf" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&locale=en" alt="vhugocf" /></p>
+
 ## 👨🏻‍💻 My Projects
   
 - [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. ⭐ 0 Stars | Language: Go 
