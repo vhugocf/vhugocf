@@ -53,6 +53,9 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&locale=en" alt="vhugocf" /></p>
 
+[![Eli's GitHub Stats][github-readme-stats-vercel-app]][github-readme-stats]
+
+
 ## 👨🏻‍💻 My Projects
   
 - [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. ⭐ 0 Stars | Language: Go 
