@@ -58,13 +58,13 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 ## 👨🏻‍💻 My Projects
   
-- [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. ⭐ 0 Stars | Language: Go
+- [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. | Language: Go
 
 
-- [Inventory-TUI](https://github.com/vhugocf/go-inventory-tui) - A inventory system made in GO with TUI. ⭐ 0 Stars | Language: Go 
+- [Inventory-TUI](https://github.com/vhugocf/go-inventory-tui) - A inventory system made in GO with TUI.  | Language: Go 
 
   
-- [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. ⭐ 0 Stars | Language: JavaScript
+- [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. | Language: JavaScript
 
 
 
