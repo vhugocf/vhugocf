@@ -44,16 +44,19 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
+
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=tokyonight&show_icons=true)](https://github.com/vhugocf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=vhugocf&theme=tokyonight&show_icons=true)](https://github.com/vhugocf)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&show_icons=true&locale=en&layout=compact" alt="vhugocf" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhugocf&show_icons=true&locale=en" alt="vhugocf" /></p>
 
 [![Victor's GitHub Stats][github-readme-stats-vercel-app]][github-readme-stats]
+
+
+
+<!-- REFERENCE LINKS -->
+<!-- GITHUB PROFILE STATS VERCEL APP -->
+[github-readme-stats-vercel-app]: https://github-readme-stats.vercel.app/api?username=vhugocf
+[github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
+
 
 
 ## 👨🏻‍💻 My Projects
