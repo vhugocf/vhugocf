@@ -9,13 +9,13 @@
 I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling complex problems and creating efficient solutions. I am currently focused on enhancing my skills in Go, ReactJS, and NextJS while exploring new technologies in cryptography field.
 
 
-- 🌱 I’m currently learning **Go, Data Structures & Algorithms, ReactJS, NextJS, ZK-SNARK**
+- 🌱 I’m currently learning **Go, C, ReactJS, NextJS, Data-Structures & Algorithms, ZK-SNARK, Cryptography & Cyber-Security**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
-- 🤝 I’m looking for help with **| Cryptography | Zero-Knowledge-Proof | Bug-Bounty**
+- 🤝 I’m looking for help with **| Cryptography | Zero-Knowledge-Proof's | Bug-Bounty**
 
-- 💬 Ask me about **| Go | Decentralized-Technologies | Blockchain**
+- 💬 Ask me about ** Go | Decentralized-Technologies | Blockchain**
 
 - 📄 Know about my experiences [https://linkedin/in/vhugocf](https://linkedin.com/in/vhugocf)
 
