@@ -1,5 +1,5 @@
 
-![Header](./github-header-image.png)
+<!--![Header](./github-header-image.png) -->
 ![Image alt text](./hello.svg)
 
 
