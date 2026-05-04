@@ -6,7 +6,7 @@
 
 ## 😎 About Me
 
-I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling complex problems and creating efficient solutions. I am currently focused on enhancing my skills in Go, ReactJS, and NextJS while exploring new technologies in cryptography field.
+I'm a software developer based in São Paulo, Brazil. I thrive on tackling complex problems and creating efficient solutions. I am currently focused on enhancing my skills in Go, ReactJS, and NextJS while exploring new technologies in the cryptography field.
 
 
 - 🌱 I’m currently learning **Go, C, ReactJS, NextJS, Data-Structures & Algorithms, ZK-SNARK, Cryptography & Cyber-Security**
@@ -15,7 +15,7 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 - 🤝 I’m looking for help with **| Cryptography | Zero-Knowledge-Proof's | Bug-Bounty**
 
-- 💬 Ask me about ** Go | Decentralized-Technologies | Blockchain**
+- 💬 Ask me about ** Go | Decentralized-Technologies **
 
 - 📄 Know about my experiences [https://linkedin/in/vhugocf](https://linkedin.com/in/vhugocf)
 
@@ -35,7 +35,7 @@ I'm a software developer based in Sao Paulo, Brazil. I thrive on tackling comple
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,react,next,nodejs,typescript,bash,docker,linux,git,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=go,react,docker,linux,git,postgresql" />
   </a>
 </p>
 
