@@ -2,22 +2,18 @@
 <!--![Header](./github-header-image.png) -->
 ![Image alt text](./hello.svg)
 
-
-
 ## 😎 About Me
 
-I'm a software developer based in São Paulo, Brazil. I thrive on tackling complex problems and creating efficient solutions. I am currently focused on enhancing my skills in Go, ReactJS, and NextJS while exploring new technologies in the cryptography field.
+I am a software engineer based in São Paulo, Brazil, dedicated to tackling complex problems and delivering efficient solutions. Currently, I am sharpening my expertise in Go and Python, while strategically exploring cutting-edge technologies that leverage artificial intelligence to optimize the development of secure, high-quality code. I am driven to excel in my field and make a significant impact in the industry
 
 
-- 🌱 I’m currently learning **Go, C, ReactJS, NextJS, Data-Structures & Algorithms, ZK-SNARK, Cryptography & Cyber-Security**
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- 🌱 I’m currently learning **Go, Python, Agentic-Code, Data-Structures & Algorithms, Zero-Knowledge Proof, Cryptography, and Artificial Intelligence(ML, DL, LLMs)**
 
-- 🤝 I’m looking for help with **| Cryptography | Zero-Knowledge-Proof's | Bug-Bounty**
+- 👯 I’m looking to collaborate on **Autonomous software engineering in testing, legacy refactoring, and security by using AI agents to write tests, modernize outdated codebases, and identify vulnerabilities**
 
-- 💬 Ask me about ** Go | Decentralized-Technologies **
+- 💬 Ask me about **Agentic Code | Artificial Intelligence | Large-Language-Models | Distributed Systems | Open-Source Software**
 
-- 📄 Know about my experiences [https://linkedin/in/vhugocf](https://linkedin.com/in/vhugocf)
 
 ## 🌎 Connect With Me
 
@@ -35,7 +31,7 @@ I'm a software developer based in São Paulo, Brazil. I thrive on tackling compl
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,react,docker,linux,git,postgresql" />
+    <img src="https://skillicons.dev/icons?i=go,python,docker,linux,git,postgresql" />
   </a>
 </p>
 
@@ -63,7 +59,7 @@ I'm a software developer based in São Paulo, Brazil. I thrive on tackling compl
 - [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. | Language: Go
 
 
-- [Inventory-TUI](https://github.com/vhugocf/go-inventory-tui) - A inventory system made in GO with TUI.  | Language: Go 
+- [Inventory-TUI](https://github.com/vhugocf/go-inventory-tui) - An inventory system made in GO with TUI.  | Language: Go 
 
   
 - [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. | Language: JavaScript
