@@ -2,18 +2,18 @@
 <!--![Header](./github-header-image.png) -->
 ![Image alt text](./hello.svg)
 
-## 😎 About Me
+## 👨‍💻 About Me
 
 I am a software engineer based in São Paulo, Brazil, dedicated to tackling complex problems and delivering efficient solutions. Currently, I am sharpening my expertise in Go and Python, while strategically exploring cutting-edge technologies that leverage artificial intelligence to optimize the development of secure, high-quality code. I am driven to excel in my field and make a significant impact in the industry
 
-
+---
 
 - 🌱 I’m currently learning **Go, Python, Agentic-Code, Data-Structures & Algorithms, Zero-Knowledge Proof, Cryptography, and Artificial Intelligence(ML, DL, LLMs)**
 
 - 👯 I’m looking to collaborate on **Autonomous software engineering in testing, legacy refactoring, and security by using AI agents to write tests, modernize outdated codebases, and identify vulnerabilities**
 
 - 💬 Ask me about **Agentic Code | Artificial Intelligence | Large-Language-Models | Distributed Systems | Open-Source Software**
-
+---
 
 ## 🌎 Connect With Me
 
@@ -37,17 +37,34 @@ I am a software engineer based in São Paulo, Brazil, dedicated to tackling comp
 
 ## 📊 GitHub Stats
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=vhugocf&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s4il21&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+</div>
+
 
 <!--
 [GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vhugocf&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=vhugocf&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=tokyonight&show_icons=true)](https://github.com/vhugocf)
-
 [![Victor's GitHub Stats][github-readme-stats-vercel-app]][github-readme-stats]
-
 <!-- REFERENCE LINKS -->
 <!-- GITHUB PROFILE STATS VERCEL APP -->
-
 <!--[github-readme-stats-vercel-app]: https://github-readme-stats.vercel.app/api?username=vhugocf&theme=tokyonight&show_icons=true
 [github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
 
@@ -58,12 +75,9 @@ I am a software engineer based in São Paulo, Brazil, dedicated to tackling comp
   
 - [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. | Language: Go
 
-
 - [Inventory-TUI](https://github.com/vhugocf/go-inventory-tui) - An inventory system made in GO with TUI.  | Language: Go 
 
-  
 - [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. | Language: JavaScript
-
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vhugocf&label=Profile%20views&color=0e75b6&style=flat" alt="vhugocf" /> </p>
