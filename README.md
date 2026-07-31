@@ -2,7 +2,7 @@
 ![Image alt text](./hello.svg)
 
 # About Me <👨‍💻> 
-> I am a software engineer based in São Paulo, Brazil, dedicated to tackling complex problems and delivering efficient solutions. Currently, I am sharpening my expertise in Go and Python, while strategically exploring cutting-edge technologies that leverage artificial intelligence to optimize the development of secure, high-quality code. I am driven to excel in my field and make a significant impact in the industry
+> I'm a software engineer from São Paulo, Brazil, and I love tackling complex challenges to create effective solutions! Right now, I'm diving deeper into Go and Python and exploring some exciting new technologies that harness artificial intelligence to help develop secure and high-quality code. I'm really passionate about my work and eager to make a positive impact in the industry!
 
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
