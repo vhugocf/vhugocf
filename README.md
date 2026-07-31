@@ -1,7 +1,7 @@
 
 ![Image alt text](./hello.svg)
 
-# About Me <👨‍💻>  
+## About Me <👨‍💻>  
 
 > I'm a software engineer from São Paulo, Brazil, and I love tackling complex challenges to create effective solutions! Right now, I'm diving deeper into Go and Python and exploring some exciting new technologies that harness artificial intelligence to help develop secure and high-quality code. I'm really passionate about my work and eager to make a positive impact in the industry!
 
@@ -14,19 +14,19 @@
 - 💬 Ask me about **Agentic Code | Artificial Intelligence | Large-Language-Models | Distributed Systems | Open-Source Software**
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
-# My Stats <📊>
+## My Stats <📊>
 
 [<img src="https://hyperweave.app/v1/stats/vhugocf/brutalist?variant=celadon" alt="Victor GitHub Stats" width="495" />][github-profile]
 
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
-# Connect With Me <📧>
+## Connect With Me <📧>
 [<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=circle&variant=signal" alt="LinkedIn"/>][linkedin]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=circle&variant=signal" alt="X"/>][x]
 
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
-# Skills & Technologies <💻>
+## Skills & Technologies <💻>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
 
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
-# My Projects <👨🏻‍💻> 
+## My Projects <👨🏻‍💻> 
   
 - [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. | Language: Go
 
