@@ -17,7 +17,7 @@ I am a software engineer based in São Paulo, Brazil, dedicated to tackling comp
 
 ## 📊🌐 My Stats
 
-[<img src="https://hyperweave.app/v1/stats/vhugocf/chrome?variant=moth" alt="Eli's GitHub Stats" width="495" />][github-profile]
+[<img src="https://hyperweave.app/v1/stats/vhugocf/chrome?variant=moth" alt="Victor GitHub Stats" width="495" />][github-profile]
 
 
 ## ✉️ Connect With Me
