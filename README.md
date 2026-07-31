@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,go,python,docker,linux,git,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=c,go,python,bash,docker,linux,git,postgresql,mongodb" />
   </a>
 </p>
 
