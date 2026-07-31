@@ -15,32 +15,21 @@ I am a software engineer based in São Paulo, Brazil, dedicated to tackling comp
 - 💬 Ask me about **Agentic Code | Artificial Intelligence | Large-Language-Models | Distributed Systems | Open-Source Software**
 ---
 
-## 🌎 Connect With Me
+## 📊🌐 My Stats
 
-<!--
-<div id="badges">
-  <a href="https://x.com/vhugocf">
-  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/vhugocf">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
--->
+[<img src="https://hyperweave.app/v1/stats/vhugocf/chrome?variant=moth" alt="Eli's GitHub Stats" width="495" />][github-profile]
+
+
+## ✉️ Connect With Me
 
 [<img src="https://hyperweave.app/v1/icon/linkedin/chrome?shape=square&variant=moth" alt="LinkedIn"/>][linkedin]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=moth" alt="X"/>][x]
-
-[linkedin]: https://www.linkedin.com/in/vhugocf
-[x]: https://x.com/vhugocf
-
-
 
 ## 💻 Skills & Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,docker,linux,git,postgresql" />
+    <img src="https://skillicons.dev/icons?i=c,go,python,docker,linux,git,postgresql" />
   </a>
 </p>
 
@@ -52,8 +41,11 @@ I am a software engineer based in São Paulo, Brazil, dedicated to tackling comp
 
 - [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. | Language: JavaScript
 
+<!-- COUNTER -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vhugocf&label=Profile%20views&color=0e75b6&style=flat" alt="vhugocf" /> </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vhugocf&label=Profile%20views&color=0e75b6&style=flat" alt="vhugocf" /> </p>
-
-## 📊 GitHub Stats
+<!-- GITHUB PROFILE AND REFERENCES -->
+[github-profile]: https://github.com/vhugocf
+[linkedin]: https://www.linkedin.com/in/vhugocf
+[x]: https://x.com/vhugocf
 
