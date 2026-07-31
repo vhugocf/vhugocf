@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on **Autonomous software engineering in testing, legacy refactoring, and security by using AI agents to write tests, modernize outdated codebases, and identify vulnerabilities**
 
 - 💬 Ask me about **Agentic Code | Artificial Intelligence | Large-Language-Models | Distributed Systems | Open-Source Software**
+
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
 ## My Stats <📊>
@@ -21,6 +22,7 @@
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
 ## Connect With Me <📧>
+
 [<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=circle&variant=signal" alt="LinkedIn"/>][linkedin]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=circle&variant=signal" alt="X"/>][x]
 
@@ -43,7 +45,6 @@
 - [Inventory-TUI](https://github.com/vhugocf/go-inventory-tui) - An inventory system made in GO with TUI.  | Language: Go 
 
 - [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. | Language: JavaScript and TypeScript
-
 
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
