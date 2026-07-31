@@ -2,7 +2,7 @@
 <!--![Header](./github-header-image.png) -->
 ![Image alt text](./hello.svg)
 
-# About Me 👨‍💻 
+# About Me 👨‍💻
 
 ## I am a software engineer based in São Paulo, Brazil, dedicated to tackling complex problems and delivering efficient solutions. Currently, I am sharpening my expertise in Go and Python, while strategically exploring cutting-edge technologies that leverage artificial intelligence to optimize the development of secure, high-quality code. I am driven to excel in my field and make a significant impact in the industry
 
@@ -16,18 +16,20 @@
 
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
-## 📊🌐 My Stats
+
+
+# My Stats 📊
 
 [<img src="https://hyperweave.app/v1/stats/vhugocf/brutalist?variant=celadon" alt="Victor GitHub Stats" width="495" />][github-profile]
 
 
-## ✉️ Connect With Me
+# Connect With Me ✉️
 
 [<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=square&variant=signal" alt="LinkedIn"/>][linkedin]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=square&variant=signal" alt="X"/>][x]
 
 
-## 💻 Skills & Technologies
+# Skills & Technologies 💻
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +37,7 @@
   </a>
 </p>
 
-## 👨🏻‍💻 My Projects
+# My Projects 👨🏻‍💻 
   
 - [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. | Language: Go
 
