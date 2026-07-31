@@ -17,7 +17,7 @@
 
 ## My Stats <📊>
 
-[<img src="https://hyperweave.app/v1/stats/vhugocf/brutalist?variant=celadon" alt="Victor GitHub Stats" width="495" />][github-profile]
+[<img src="https://hyperweave.app/v1/stats/vhugocf/brutalist?variant=celadon" alt="Victor GitHub Stats" width="650" />][github-profile]
 
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
