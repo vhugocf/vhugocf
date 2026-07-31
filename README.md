@@ -1,9 +1,9 @@
-
 <!--![Header](./github-header-image.png) -->
 ![Image alt text](./hello.svg)
 
 # About Me <👨‍💻> 
 > I am a software engineer based in São Paulo, Brazil, dedicated to tackling complex problems and delivering efficient solutions. Currently, I am sharpening my expertise in Go and Python, while strategically exploring cutting-edge technologies that leverage artificial intelligence to optimize the development of secure, high-quality code. I am driven to excel in my field and make a significant impact in the industry
+
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
 - 🌱 I’m currently learning **Go, Python, Agentic-Code, Data-Structures & Algorithms, Zero-Knowledge Proof, Cryptography, and Artificial Intelligence(ML, DL, LLMs)**
@@ -14,18 +14,18 @@
 
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
-
-
 # My Stats <📊>
 
 [<img src="https://hyperweave.app/v1/stats/vhugocf/brutalist?variant=celadon" alt="Victor GitHub Stats" width="495" />][github-profile]
 
+[<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
 # Connect With Me <✉️>
 
 [<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=circle&variant=signal" alt="LinkedIn"/>][linkedin]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=circle&variant=signal" alt="X"/>][x]
 
+[<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
 # Skills & Technologies <💻>
 
@@ -35,6 +35,8 @@
   </a>
 </p>
 
+[<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
+
 # My Projects <👨🏻‍💻> 
   
 - [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. | Language: Go
@@ -43,6 +45,10 @@
 
 - [FullstackCourse-University-of-Helsinki-2020](https://github.com/vhugocf/FullstackCourse-University-of-Helsinki-2020) - Completed coursework from the University of Helsinki's Full Stack course. | Language: JavaScript
 
+
+[<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
+
+
 <!-- COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vhugocf&label=Profile%20views&color=0e75b6&style=flat" alt="vhugocf" /> </p>
 
@@ -50,4 +56,3 @@
 [github-profile]: https://github.com/vhugocf
 [linkedin]: https://www.linkedin.com/in/vhugocf
 [x]: https://x.com/vhugocf
-
