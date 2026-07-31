@@ -17,15 +17,24 @@ I am a software engineer based in São Paulo, Brazil, dedicated to tackling comp
 
 ## 🌎 Connect With Me
 
+<!--
 <div id="badges">
   <a href="https://x.com/vhugocf">
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
   <a href="https://linkedin.com/in/vhugocf">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+-->
+
+[<img src="https://hyperweave.app/v1/icon/linkedin/chrome?shape=square&variant=moth" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=moth" alt="X"/>][x]
+
+[linkedin]: https://www.linkedin.com/in/vhugocf
+[x]: https://x.com/vhugocf
+
+
 
 ## 💻 Skills & Technologies
 
