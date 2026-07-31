@@ -6,24 +6,27 @@
 
 I am a software engineer based in São Paulo, Brazil, dedicated to tackling complex problems and delivering efficient solutions. Currently, I am sharpening my expertise in Go and Python, while strategically exploring cutting-edge technologies that leverage artificial intelligence to optimize the development of secure, high-quality code. I am driven to excel in my field and make a significant impact in the industry
 
----
+
+[<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
 
 - 🌱 I’m currently learning **Go, Python, Agentic-Code, Data-Structures & Algorithms, Zero-Knowledge Proof, Cryptography, and Artificial Intelligence(ML, DL, LLMs)**
 
 - 👯 I’m looking to collaborate on **Autonomous software engineering in testing, legacy refactoring, and security by using AI agents to write tests, modernize outdated codebases, and identify vulnerabilities**
 
 - 💬 Ask me about **Agentic Code | Artificial Intelligence | Large-Language-Models | Distributed Systems | Open-Source Software**
----
+
+[<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
+
 
 ## 📊🌐 My Stats
 
-[<img src="https://hyperweave.app/v1/stats/vhugocf/chrome?variant=moth" alt="Victor GitHub Stats" width="495" />][github-profile]
+[<img src="https://hyperweave.app/v1/stats/vhugocf/brutalist?variant=celadon" alt="Victor GitHub Stats" width="495" />][github-profile]
 
 
 ## ✉️ Connect With Me
 
-[<img src="https://hyperweave.app/v1/icon/linkedin/chrome?shape=square&variant=moth" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=moth" alt="X"/>][x]
+[<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=square&variant=signal" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=square&variant=signal" alt="X"/>][x]
 
 ## 💻 Skills & Technologies
 
