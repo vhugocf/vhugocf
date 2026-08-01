@@ -1,6 +1,5 @@
-
-![Image alt text](./hello.svg)
 [<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
+![Image alt text](./hello.svg)
 
 ## About Me <👨‍💻>  
 
