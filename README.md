@@ -35,9 +35,6 @@
 [<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=circle&variant=signal" alt="LinkedIn"/>][linkedin]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=circle&variant=signal" alt="X"/>][x]
 
-
-[<img src="https://hyperweave.app/v1/divider/aura/primer.static?variant=petrol"/>][github-profile]
-
 <!-- COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vhugocf&label=Profile%20views&color=0e75b6&style=flat" alt="vhugocf" /> </p>
 
