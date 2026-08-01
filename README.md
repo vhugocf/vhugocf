@@ -17,7 +17,7 @@
 
 ## My Stats <📊>
 
-[<img src="https://hyperweave.app/v1/stats/vhugocf/brutalist?variant=celadon" alt="Victor GitHub Stats" width="700" />][github-profile]
+[<img src="https://hyperweave.app/v1/card/vhugocf/automata.static?variant=toxic&pair=toxic" alt="Victor GitHub Stats" width="700" />][github-profile]
 
 
 ## Connect With Me <📧>
