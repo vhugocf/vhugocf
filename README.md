@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/vhugocf">
-    <img src="https://skillicons.dev/icons?i=c,go,python,bash,docker,linux,git,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=c,go,python,bash,linux,git,docker,kubernetes,postgresql,mongodb" />
   </a>
 </p>
 
