@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/vhugocf">
-    <img src="https://skillicons.dev/icons?i=c,go,python,bash,linux,git,docker,kubernetes,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=bash,c,go,python,react,typescript,nodejs,nextjs,graphql,linux,git,docker,postgresql,mongodb" />
   </a>
 </p>
 
