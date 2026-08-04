@@ -4,10 +4,17 @@
 ![Image alt text](./hello.svg)
 
 ## About Me <👨‍💻> 
-> I'm a software engineer from São Paulo, Brazil, and I love tackling complex challenges to create effective solutions! Right now, I'm diving deeper into Go and Python and exploring some exciting new technologies that harness artificial intelligence to help develop secure and high-quality code. I'm really passionate about my work and eager to make a positive impact in the industry.
+> I'm a software engineer from São Paulo, Brazil, and I absolutely love tackling complex challenges to create effective solutions. Right now, I’m diving into Go and Python and getting excited about some new technologies that use artificial intelligence to help us write secure and high-quality code.
+> 
+> I earned my bachelor's degree in Information Systems thanks to a scholarship that really ignited my passion for computers. While in college, I discovered Free and Open Source Software (FOSS) projects and started experimenting with Go and Python, which helped me build some great skills for my career.
+> 
+> I’m always keen to stay updated on the latest in IT, especially in areas like blockchain, cryptography, and artificial intelligence. I truly believe that the rise of decentralized technologies is incredibly important for creating networks that resist censorship and safeguard our freedoms.
+> 
+> At the end of the day, I’m a big believer in the power of open-source software and decentralized systems to empower individuals and promote their sovereignty in this ever-changing world. Looking forward to connecting with like-minded folks!.
+
 
 #
-- 🌱 I’m currently learning **C, Go, Python, Agentic-Code, Data-Structures & Algorithms, Zero-Knowledge Proof, Cryptography, and Artificial Intelligence(ML, DL, LLMs)**
+- 🌱 I’m currently learning **C, Go, Python, Agentic-Code, Data-Structures & Algorithms, Zero-Knowledge Proof, Cryptography, and Artificial Intelligence(ML, DL, LLMs & Agentic AI)**
 
 - 👯 I’m looking to collaborate on **Autonomous software engineering in testing, legacy refactoring, and security by using AI agents to write tests, modernize outdated codebases, and identify vulnerabilities**
 
