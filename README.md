@@ -1,5 +1,9 @@
 
+---
+
 ![Image alt text](./hello.svg)
+
+---
 
 ## About Me <👨‍💻> 
 > I'm a software engineer from São Paulo, Brazil, and I love tackling complex challenges to create effective solutions! Right now, I'm diving deeper into Go and Python and exploring some exciting new technologies that harness artificial intelligence to help develop secure and high-quality code. I'm really passionate about my work and eager to make a positive impact in the industry.
