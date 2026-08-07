@@ -23,7 +23,7 @@
 
 ## My Stats <📊>
 
-[<img src="https://hyperweave.app/v1/card/vhugocf/automata.static?variant=jade&pair=jade" alt="Victor GitHub Stats" width="830" />][github-profile]
+[<img src="https://hyperweave.app/v1/card/vhugocf/automata.static?variant=jade&pair=jade" alt="Victor GitHub Stats" width="840" />][github-profile]
 
 ## Skills & Technologies <💻>
 
