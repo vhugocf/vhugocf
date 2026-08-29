@@ -4,7 +4,7 @@
 ![Image alt text](./hello.svg)
 
 ## About Me <👨‍💻> 
-> I'm a software engineer from São Paulo, Brazil, and I absolutely love tackling complex challenges to create effective solutions. Right now, I’m diving into Go and Python and getting excited about some new technologies that use artificial intelligence to help us write secure and high-quality code.
+> I'm a software engineer from Brazil, and I absolutely love tackling complex challenges to create effective solutions. Right now, I’m diving into Go and Python and getting excited about some new technologies that use artificial intelligence to help us write more secure and high-quality code.
 > 
 > I earned my bachelor's degree in Information Systems thanks to a scholarship that really ignited my passion for computers. While in college, I discovered Free and Open Source Software (FOSS) projects and started experimenting with Go and Python, which helped me build some great skills for my career.
 > 
@@ -14,7 +14,7 @@
 
 
 #
-- 🌱 I’m currently learning **C, Go, Python, Agentic-Code, Data-Structures & Algorithms, Zero-Knowledge Proof, Cryptography, and Artificial Intelligence(ML, DL, LLMs & Agentic AI)**
+- 🌱 I’m currently learning **C, Go, Python, Agentic-Code, Data-Structures & Algorithms, Zero-Knowledge Proofs, Cryptography, and Artificial Intelligence(ML, DL, LLMs & Agentic AI)**
 
 - 👯 I’m looking to collaborate on **Autonomous software engineering in testing, legacy refactoring, and security by using AI agents to write tests, modernize outdated codebases, and identify vulnerabilities**
 
