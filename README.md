@@ -33,17 +33,14 @@
   </a>
 </p>
 
+<!--
 ## My Projects <👨🏻‍💻> 
-  
+
 - [Slot-Machine-GO](https://github.com/vhugocf/go-project-slotmachine) - A slot machine made in GO. | Language: Go
 
 - [Inventory-TUI](https://github.com/vhugocf/go-inventory-tui) - An inventory system made in GO with TUI.  | Language: Go 
-
-<!--
-## Connect With Me <📧>
-[<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=circle&variant=signal" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=circle&variant=signal" alt="X"/>][x]
 -->
+
 ---
 <!-- COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vhugocf&label=Profile%20views&color=0e75b6&style=flat" alt="vhugocf" /> </p>
